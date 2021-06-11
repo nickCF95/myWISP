@@ -1,0 +1,12 @@
+.nav-item:hover a{
+  background-color: black;
+  color: white !important;
+}
+#logo-img {
+    background: url('../../assets/images/wispIcon.png') no-repeat;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    left: .3%;
+    float: left;
+  }
